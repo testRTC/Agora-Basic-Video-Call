@@ -6,6 +6,6 @@
   "author": "mulyo <mulyoved@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "(cd One-to-One-Video/Agora-Web-Tutorial-1to1-React-NG && yarn build"
+    "build": "cd One-to-One-Video/Agora-Web-Tutorial-1to1-React-NG && yarn build"
   }
 }
