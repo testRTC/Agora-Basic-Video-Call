@@ -1,0 +1,11 @@
+{
+  "name": "Basic-Video-Call",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/testRTC/Basic-Video-Call.git",
+  "author": "mulyo <mulyoved@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "(cd One-to-One-Video/Agora-Web-Tutorial-1to1-React-NG && yarn build"
+  }
+}
